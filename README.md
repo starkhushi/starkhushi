@@ -17,7 +17,7 @@
 
 <br><br>
 
-<a href="https://github.com/starkhushi"><img src="https://komarev.com/ghpvc/?username=starkhushi&style=for-the-badge&color=34d399&label=%F0%9F%91%80+PROFILE+VIEWS&abbreviated=true" alt="profile views" height="32"></a>
+<a href="https://github.com/starkhushi"><img src="https://api.visitorbadge.io/api/visitors?path=github.com%2Fstarkhushi&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%2334d399&style=for-the-badge" alt="profile views"></a>
 
 </div>
 
