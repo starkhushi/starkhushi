@@ -1,3 +1,6 @@
+<!-- HEADER: animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:34d399&height=180&section=header&text=Khushi&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%2FML%20%C2%B7%20LLM%20apps%20%C2%B7%20Kaggle%20Expert&descAlignY=58&descSize=18" width="100%" alt="Khushi · AI/ML · LLM apps · Kaggle Expert">
+
 <div align="center">
 
 <!-- NAME / TAGLINE: animated typing -->
@@ -95,6 +98,15 @@ I like taking an idea all the way: data, model, and the app people actually use.
   <img src="https://raw.githubusercontent.com/starkhushi/starkhushi/output/github-contribution-grid-snake-dark.svg" alt="snake eating my contribution graph">
 </picture>
 
+<br><br>
+
+<!-- Rotating 3D contribution city, redrawn daily by .github/workflows/3d-contrib.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%">
+</picture>
+
 </div>
 
 ---
@@ -104,3 +116,7 @@ I like taking an idea all the way: data, model, and the app people actually use.
 <sub>` built with gradient descent & adrak chai · @starkhushi `</sub>
 
 </div>
+
+<!-- FOOTER: animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:0d1117&height=110&section=footer" width="100%" alt="">
+
