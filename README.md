@@ -2,14 +2,14 @@
 
 <!-- NAME / TAGLINE: animated typing -->
 <a href="https://github.com/starkhushi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=880&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;AI%2FML+engineer+in+the+making;LLM+apps+%C2%B7+agents+%C2%B7+Indian-language+AI;Kaggle+competitor+%C2%B7+Hacktoberfest+2026" alt="Hi, I'm Khushi. AI/ML engineer in the making.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=880&lines=Hi%2C+I'm+Khushi+%F0%9F%91%8B;AI%2FML+engineer+in+the+making;LLM+apps+%C2%B7+agents+%C2%B7+Indian-language+AI;Kaggle+Expert+%C2%B7+Hacktoberfest+2026" alt="Hi, I'm Khushi. AI/ML engineer in the making.">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
 <a href="https://khushi-39b5960.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=34d399" alt="Portfolio"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/starkhushi"><img src="https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=34d399" alt="Kaggle"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/starkhushi"><img src="https://img.shields.io/badge/Kaggle%20Expert-0d1117?style=for-the-badge&logo=kaggle&logoColor=34d399" alt="Kaggle Expert"></a>&nbsp;&nbsp;
 <a href="https://dev.to/khushi886987"><img src="https://img.shields.io/badge/DEV-0d1117?style=for-the-badge&logo=devdotto&logoColor=34d399" alt="DEV"></a>&nbsp;&nbsp;
 <a href="mailto:khushi886987@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"></a>
 <!-- LinkedIn: replace YOUR-LINKEDIN, then move this line above the comment -->
@@ -30,7 +30,7 @@ I like taking an idea all the way: data, model, and the app people actually use.
 
 - 🤖 **Building LLM apps and agents**: chat platforms, multi-agent routing, and assistants that check their own answers.
 - 🗣️ **AI for Indian languages**: speech-dataset curation across 22 languages, Hindi and Hinglish assistants.
-- 🏆 **Competing on [Kaggle](https://www.kaggle.com/starkhushi)**: tabular ML, ensembling, and molecule identification from mass spectra.
+- 🏆 **[Kaggle Expert](https://www.kaggle.com/starkhushi)**: tabular ML, ensembling, and molecule identification from mass spectra.
 - 🎃 **Hacktoberfest 2026**: shipping a new open-source AI project every week.
 - 🤝 Member of **FOSSCU** and **Mycin**.
 - 💬 **Ask me about** LLM agents, Kaggle tricks, or why the air in Delhi changes by the hour.
