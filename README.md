@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=starkhushi&style=flat&color=34d399&label=profile+views" alt="profile views">
+<a href="https://github.com/starkhushi"><img src="https://komarev.com/ghpvc/?username=starkhushi&style=for-the-badge&color=34d399&label=%F0%9F%91%80+PROFILE+VIEWS&abbreviated=true" alt="profile views" height="32"></a>
 
 </div>
 
