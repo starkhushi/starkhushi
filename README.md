@@ -2,6 +2,7 @@
 <p align="center"><b>AI/ML engineer in the making · LLM apps · Indian-language AI · data analytics</b></p>
 
 <p align="center">
+  <a href="https://khushi-39b5960.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-khushi-2E7D4F?logo=netlify&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.kaggle.com/starkhushi"><img src="https://img.shields.io/badge/Kaggle-starkhushi-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://dev.to/khushi886987"><img src="https://img.shields.io/badge/DEV-khushi886987-0A0A0A?logo=devdotto&logoColor=white" alt="DEV"></a>
   <a href="mailto:khushi886987@gmail.com"><img src="https://img.shields.io/badge/Email-khushi886987%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
